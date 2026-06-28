@@ -1,26 +1,33 @@
-# Semantic HTML5 Portfolio Website
+# Advanced CSS3 Responsive Portfolio
 
-## 📌 Project Overview
+## Project Overview
 
-This project is a multi-page portfolio website developed using semantic HTML5 elements while following accessibility (WCAG) guidelines and SEO best practices.
+This project is a responsive portfolio website developed using modern HTML5 and CSS3.
 
-## ✨ Features
+## Features
 
-- Semantic HTML5 Structure
-- Multi-page Website
-- Responsive Layout
-- Accessible Navigation
-- ARIA Labels
-- Keyboard-Friendly Contact Form
-- SEO-Friendly Meta Tags
-- Modern CSS Styling
+- Semantic HTML5
+- CSS Grid Layout
+- Flexbox Components
+- Mobile-First Design
+- Responsive Media Queries
+- CSS Variables
+- Light/Dark Theme Ready
+- Accessible Contact Form
+- SEO-Friendly Structure
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 
-## 📂 Project Structure
+## Responsive Devices
+
+- Mobile
+- Tablet
+- Desktop
+
+## Folder Structure
 
 ```
 semantic-portfolio/
@@ -31,14 +38,15 @@ semantic-portfolio/
 ├── contact.html
 ├── css/
 │   └── style.css
-├── images/
 └── README.md
 ```
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
-- Semantic HTML5
-- Accessibility (WCAG)
-- SEO Fundamentals
-- Responsive Web Design
-- Git & GitHub
+- CSS Grid
+- Flexbox
+- Responsive Design
+- CSS Variables
+- Media Queries
+- Accessibility
+- SEO
